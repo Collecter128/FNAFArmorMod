@@ -15,6 +15,8 @@ public enum ArmorMaterials implements IArmorMaterial{
 	
 	FreddyFnaf1Armor("freddyarmor", 6, new int[] {1, 4, 5, 2}, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 1f, 0.1f, () -> Ingredient.fromItems(Items.IRON_INGOT)),
 	BonnieFnaf1Armor("bonniearmor", 6, new int[] {1, 4, 5, 2}, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 1f, 0.1f, () -> Ingredient.fromItems(Items.IRON_INGOT)),
+	ChicaFnaf1Armor("chicaarmor", 6, new int[] {1, 4, 5, 2}, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 1f, 0.1f, () -> Ingredient.fromItems(Items.IRON_INGOT)),
+	FoxyFnaf1Armor("foxyarmor", 6, new int[] {1, 4, 5, 2}, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 1f, 0.1f, () -> Ingredient.fromItems(Items.IRON_INGOT)),
 	GoldenFreddyFnaf1Armor("goldenfreddyarmor", 50, new int[] {2, 7, 6, 3}, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 2f, 0.1f, () -> Ingredient.fromItems(Items.GOLD_INGOT)),
 	
 	RWQArmor("rwqarmor", 6, new int[] {1, 4, 5, 2}, 17, SoundEvents.AMBIENT_SOUL_SAND_VALLEY_ADDITIONS, 1f, 0.1f, () -> Ingredient.fromItems(Items.IRON_INGOT)),
