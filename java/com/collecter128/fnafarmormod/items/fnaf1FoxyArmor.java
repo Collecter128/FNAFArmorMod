@@ -1,0 +1,60 @@
+package com.collecter128.fnafarmormod.items;
+
+import com.collecter128.fnafarmormod.client.models.fnaf1_foxymodel;
+
+import net.minecraft.client.renderer.entity.model.BipedModel;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.LivingEntity;
+import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.item.DyeableArmorItem;
+import net.minecraft.item.IArmorMaterial;
+import net.minecraft.item.ItemStack;
+import net.minecraft.nbt.CompoundNBT;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
+
+public class fnaf1FoxyArmor extends DyeableArmorItem{
+	
+	public int MainColorDefault = 15152669;//Red
+	public int MainColor = MainColorDefault;
+
+	public fnaf1FoxyArmor(IArmorMaterial materialIn, EquipmentSlotType slot, Properties builderIn) {
+		super(materialIn, slot, builderIn);
+		
+	}
+	
+	@OnlyIn(Dist.CLIENT)
+	@Override
+	public <A extends BipedModel<?>> A getArmorModel(LivingEntity entityLiving, ItemStack itemStack, EquipmentSlotType armorSlot, A _default) {
+		
+		fnaf1_foxymodel model = new fnaf1_foxymodel(1.0f, armorSlot);
+		model.hat.visible = armorSlot == EquipmentSlotType.HEAD;
+
+//		model.young = _default.young;
+//        model.crouching = _default.crouching;
+//        model.riding = _default.riding;
+//        model.rightArmPose = _default.rightArmPose;
+//        model.leftArmPose = _default.leftArmPose;
+        
+        CompoundNBT compoundnbt = itemStack.getTagElement("display");
+
+	      if(compoundnbt != null && compoundnbt.contains("color", 99)) {
+	    	  //CompoundNBT maincompund = itemStack.getChildTag("MainColor");
+	    	  //armorcolorer = compoundnbt.getInt("MainColor");
+	    	  model.MainColor = compoundnbt.getInt("color");
+
+	      }
+	      
+      
+		this.MainColor = model.MainColor;
+
+        return (A) model;
+		
+	}
+
+	@Override
+    public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
+        return "fnafarmormod:textures/armor/fnaf1_foxyarmor.png";
+    }
+	
+}
