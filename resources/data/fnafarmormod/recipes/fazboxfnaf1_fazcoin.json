@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"C ",
+		" F"
+	],
+	"key": {
+		"F": {
+			"item": "fnafarmormod:fazbox"
+		},
+		"C": {
+			"item": "fnafarmormod:fazcoin"
+		}
+	},
+	"result": {
+		"item": "fnafarmormod:fazboxfnaf1",
+		"count": 1
+	}
+}

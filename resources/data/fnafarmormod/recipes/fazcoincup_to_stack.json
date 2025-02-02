@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fnafarmormod:fazcoin_cup"
+    }
+  ],
+  "result": {
+    "item": "fnafarmormod:fazcoin_stack",
+    "count": 9
+  }
+}

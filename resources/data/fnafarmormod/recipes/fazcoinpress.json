@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"bP ",
+		"sis",
+		"SSS"
+	],
+	"key": {
+		"b": {
+			"tag": "minecraft:wooden_buttons"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"P": {
+			"item": "minecraft:piston"
+		},
+		"S": {
+			"item": "minecraft:smooth_stone"
+		},
+		"s": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "fnafarmormod:fazcoinpress",
+		"count": 1
+	}
+}

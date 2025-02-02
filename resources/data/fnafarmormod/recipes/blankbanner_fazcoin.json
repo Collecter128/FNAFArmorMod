@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"p",
+		"F"
+	],
+	"key": {
+		"F": {
+			"item": "fnafarmormod:fazcoin"
+		},
+		"p": {
+			"item": "minecraft:paper"
+		}
+	},
+	"result": {
+		"item": "fnafarmormod:fazboxbanner",
+		"count": 1
+	}
+}
