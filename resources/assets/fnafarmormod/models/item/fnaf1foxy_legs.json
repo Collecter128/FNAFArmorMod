@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fnafarmormod:item/fnaf1foxy_legs"
+  }
+}

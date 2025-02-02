@@ -1,0 +1,39 @@
+{
+	"parent": "block/block",
+	"credit": "Made with Blockbench",
+	"texture_size": [19, 17],
+	"textures": {
+		"0": "fnafarmormod:item/fnaf1bonnie_guitar",
+		"1": "fnafarmormod:item/fnaf1bonnie_guitar_otherside",
+		"particle": "fnafarmormod:item/fnaf1bonnie_guitar"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 15, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 15.84211, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 15], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 15], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -7, 18]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -16, 5]
+		},
+		"gui": {
+			"rotation": [0, 92, 0]
+		},
+		"fixed": {
+			"rotation": [0, -86, 0]
+		}
+	}
+}
