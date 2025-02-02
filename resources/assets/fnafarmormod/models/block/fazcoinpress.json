@@ -1,0 +1,64 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fnafarmormod:block/fazcoinpress_base",
+		"1": "fnafarmormod:block/fazcoinpress_press",
+		"2": "fnafarmormod:block/fazcoinpress_side",
+		"3": "fnafarmormod:block/fazcoinpress_top",
+		"particle": "fnafarmormod:block/fazcoinpress_base"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 13, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 13, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 13, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 13, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 3, 3],
+			"to": [13, 15, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 3, 3]},
+			"faces": {
+				"north": {"uv": [3, 0, 13, 12], "texture": "#2"},
+				"east": {"uv": [3, 0, 13, 12], "texture": "#2"},
+				"south": {"uv": [3, 0, 13, 12], "texture": "#2"},
+				"west": {"uv": [3, 0, 13, 12], "texture": "#2"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#3"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [3, 6, 3],
+			"to": [13, 6, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 7, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 10, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 10, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 10, 0], "texture": "#missing"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#1"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 12, 7],
+			"to": [3, 14, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 12, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#2"},
+				"down": {"uv": [0, 0, 1, 2], "texture": "#2"}
+			}
+		}
+	]
+}

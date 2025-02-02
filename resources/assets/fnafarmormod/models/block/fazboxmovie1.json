@@ -1,0 +1,9 @@
+{
+  "parent": "fnafarmormod:block/orientable_with_bottomnew",
+  "textures": {
+    "top": "fnafarmormod:block/fazbox_top",
+    "bottom": "fnafarmormod:block/fazbox_bottom",
+    "front": "fnafarmormod:block/fazbox_fnaf1_sidea",
+    "side": "fnafarmormod:block/fazbox_movie1_sideb"
+  }
+}
