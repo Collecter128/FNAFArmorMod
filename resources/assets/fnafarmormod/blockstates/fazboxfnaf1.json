@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fnafarmormod:block/fazboxfnaf1",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fnafarmormod:block/fazboxfnaf1"
+    },
+    "facing=south": {
+      "model": "fnafarmormod:block/fazboxfnaf1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnafarmormod:block/fazboxfnaf1",
+      "y": 270
+    }
+  }
+}

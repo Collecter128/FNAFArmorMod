@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fnafarmormod:block/fazcoinpress",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fnafarmormod:block/fazcoinpress"
+    },
+    "facing=south": {
+      "model": "fnafarmormod:block/fazcoinpress",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnafarmormod:block/fazcoinpress",
+      "y": 270
+    }
+  }
+}

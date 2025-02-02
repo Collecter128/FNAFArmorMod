@@ -1,0 +1,115 @@
+{
+	"item.fnafarmormod.fazcoin": "Faz Token",
+	"item.fnafarmormod.fazcoin_roll": "Faz Token Roll",
+	"item.fnafarmormod.fazcoin_stack": "Faz Token Stack",
+	"item.fnafarmormod.fazcoin_cup": "Faz Token Cup",
+	"item.fnafarmormod.fazcoin_tub": "Faz Token Tub",
+	"item.fnafarmormod.fazcoin_sack": "Faz Token Sack",
+	"item.fnafarmormod.fazcoin_truck": "Faz Token Truck",
+
+	"item.fnafarmormod.fnaf1freddy_microphone": "Freddy Microphone",
+	"item.fnafarmormod.fnaf1freddy_head": "Freddy Head Armor",
+	"item.fnafarmormod.fnaf1freddy_body": "Freddy Body Armor",
+	"item.fnafarmormod.fnaf1freddy_legs": "Freddy Legs Armor",
+	"item.fnafarmormod.fnaf1freddy_boots": "Freddy Boots Armor",
+	
+	"item.fnafarmormod.fnaf1bonnie_guitar": "Bonnie Guitar",
+	"item.fnafarmormod.fnaf1bonnie_head": "Bonnie Head Armor",
+	"item.fnafarmormod.fnaf1bonnie_body": "Bonnie Body Armor",
+	"item.fnafarmormod.fnaf1bonnie_legs": "Bonnie Legs Armor",
+	"item.fnafarmormod.fnaf1bonnie_boots": "Bonnie Boots Armor",
+	
+	"item.fnafarmormod.fnaf1cupcake": "Carl Cupcake",
+	"item.fnafarmormod.fnaf1chica_head": "Chica Head Armor",
+	"item.fnafarmormod.fnaf1chica_body": "Chica Body Armor",
+	"item.fnafarmormod.fnaf1chica_legs": "Chica Legs Armor",
+	"item.fnafarmormod.fnaf1chica_boots": "Chica Boots Armor",
+	
+	"item.fnafarmormod.fnaf1foxy_head": "Foxy Head Armor",
+	"item.fnafarmormod.fnaf1foxy_body": "Foxy Body Armor",
+	"item.fnafarmormod.fnaf1foxy_legs": "Foxy Legs Armor",
+	"item.fnafarmormod.fnaf1foxy_boots": "Foxy Boots Armor",
+	
+	"item.fnafarmormod.fnaf1goldenfreddy_microphone": "Golden Freddy Microphone",
+	"item.fnafarmormod.fnaf1goldenfreddy_head": "Golden Freddy Head Armor",
+	"item.fnafarmormod.fnaf1goldenfreddy_body": "Golden Freddy Body Armor",
+	"item.fnafarmormod.fnaf1goldenfreddy_legs": "Golden Freddy Legs Armor",
+	"item.fnafarmormod.fnaf1goldenfreddy_boots": "Golden Freddy Boots Armor",
+	
+	"item.fnafarmormod.fnaf1bonnie_headeyeless": "Bonnie Head Armor (Eyeless)",
+	
+	"item.fnafarmormod.movie1goldenfreddy_head": "Movie Golden Freddy Head Armor",
+	
+	"item.fnafarmormod.movie1sparky_head": "Sparky Head Armor",
+	"item.fnafarmormod.movie1sparky_body": "Sparky Body Armor",
+	"item.fnafarmormod.movie1sparky_legs": "Sparky Legs Armor",
+	"item.fnafarmormod.movie1sparky_boots": "Sparky Boots Armor",
+	
+	"item.fnafarmormod.fnaf2toyfreddy_head": "Toy Freddy Head Armor",
+	"item.fnafarmormod.fnaf2toyfreddy_body": "Toy Freddy Body Armor",
+	"item.fnafarmormod.fnaf2toyfreddy_legs": "Toy Freddy Legs Armor",
+	"item.fnafarmormod.fnaf2toyfreddy_boots": "Toy Freddy Boots Armor",
+	
+	"item.fnafarmormod.fnaf2toybonnie_head": "Toy Bonnie Head Armor",
+	"item.fnafarmormod.fnaf2toybonnie_body": "Toy Bonnie Body Armor",
+	"item.fnafarmormod.fnaf2toybonnie_legs": "Toy Bonnie Legs Armor",
+	"item.fnafarmormod.fnaf2toybonnie_boots": "Toy Bonnie Boots Armor",
+	
+	"item.fnafarmormod.fnaf2toychica_head": "Toy Chica Head Armor",
+	"item.fnafarmormod.fnaf2toychica_body": "Toy Chica Body Armor",
+	"item.fnafarmormod.fnaf2toychica_legs": "Toy Chica Legs Armor",
+	"item.fnafarmormod.fnaf2toychica_boots": "Toy Chica Boots Armor",
+	
+	"item.fnafarmormod.fnaf2puppet_head": "The Puppet Head Armor",
+	"item.fnafarmormod.fnaf2puppet_body": "The Puppet Body Armor",
+	"item.fnafarmormod.fnaf2puppet_legs": "The Puppet Legs Armor",
+	"item.fnafarmormod.fnaf2puppet_boots": "The Puppet Boots Armor",
+	
+	"item.fnafarmormod.fnaf2rwq_head": "RWQFSFASXC Head Armor",
+	"item.fnafarmormod.fnaf2rwq_body": "RWQFSFASXC Body Armor",
+	"item.fnafarmormod.fnaf2rwq_legs": "RWQFSFASXC Legs Armor",
+	"item.fnafarmormod.fnaf2rwq_boots": "RWQFSFASXC Boots Armor",
+	
+	"item.fnafarmormod.fnaf2toychica_headbeakless": "Toy Chica Head Armor (Beakless)",
+	
+	"item.fnafarmormod.fnaf3springbonnie_head": "Spring Bonnie Head Armor",
+	"item.fnafarmormod.fnaf3springbonnie_body": "Spring Bonnie Body Armor",
+	"item.fnafarmormod.fnaf3springbonnie_legs": "Spring Bonnie Legs Armor",
+	"item.fnafarmormod.fnaf3springbonnie_boots": "Spring Bonnie Boots Armor",
+	
+	"item.fnafarmormod.fnaf3springtrap_head": "Springtrap Head Armor",
+	"item.fnafarmormod.fnaf3springtrap_body": "Springtrap Body Armor",
+	"item.fnafarmormod.fnaf3springtrap_legs": "Springtrap Legs Armor",
+	"item.fnafarmormod.fnaf3springtrap_boots": "Springtrap Boots Armor",
+	
+	"item.fnafarmormod.blank_banner_pattern": "Blank Banner Pattern",
+	
+		"item.fnafarmormod.freddy_banner_pattern": "Banner Pattern",
+		"item.fnafarmormod.freddy_banner_pattern.desc": "Freddy Icon",
+		
+		"item.fnafarmormod.bonnie_banner_pattern": "Banner Pattern",
+		"item.fnafarmormod.bonnie_banner_pattern.desc": "Bonnie Icon",
+		
+		"item.fnafarmormod.chica_banner_pattern": "Banner Pattern",
+		"item.fnafarmormod.chica_banner_pattern.desc": "Chica Icon",
+		
+		"item.fnafarmormod.foxy_banner_pattern": "Banner Pattern",
+		"item.fnafarmormod.foxy_banner_pattern.desc": "Foxy Icon",
+		
+		"item.fnafarmormod.goldenfreddy_banner_pattern": "Banner Pattern",
+		"item.fnafarmormod.goldenfreddy_banner_pattern.desc": "Golden Freddy Icon",
+	
+	"block.fnafarmormod.fazcoinpress": "Gold to Faz Token Press",
+	
+	"block.fnafarmormod.fazbox": "Surprise Armor Fazbox",
+	"block.fnafarmormod.fazboxfnaf1": "Surprise Armor Fazbox (Fnaf1)",
+	"block.fnafarmormod.fazboxfnaf2": "Surprise Armor Fazbox (Fnaf2)",
+	
+	"block.fnafarmormod.fazboxmovie1": "Surprise Armor Fazbox (Movie)",
+	
+	"block.fnafarmormod.fazboxbanner": "Surprise Armor Fazbox (Banner)",
+	
+	"itemGroup.FnafArmorTab": "Fnaf Armor",
+	"itemGroup.FnafArmorBlocksTab": "Fnaf Armor Blocks",
+	"itemGroup.FnafArmorBannersTab": "Fnaf Armor Banners"
+}
